@@ -1,7 +1,3 @@
-# pumpkin-sentinel
-An open-source DIY Halloween pumpkin with ESP32, spooky sounds, lights and motion detection.
-
-
 # 🎃 Pumpkin Sentinel
 
 **A DIY Halloween pumpkin with a spooky personality!**
